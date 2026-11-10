@@ -19,13 +19,13 @@
 2. [Attention Is All You Need](#paper-2)
 3. [On the Refinement of DHTs](#paper-3)
 4. [Deep Latent Mixture Model for Recommendation](#paper-4)
-5. [Paper 5 — *Title TBD*](#paper-5)
-6. [Paper 6 — *Title TBD*](#paper-6)
-7. [Paper 7 — *Title TBD*](#paper-7)
-8. [Paper 8 — *Title TBD*](#paper-8)
-9. [Paper 9 — *Title TBD*](#paper-9)
-10. [Paper 10 — *Title TBD*](#paper-10)
-11. [Paper 11 — *Title TBD*](#paper-11)
+5. [Paper 5](#paper-5)
+6. [Paper 6](#paper-6)
+7. [Paper 7](#paper-7)
+8. [Paper 8](#paper-8)
+9. [Paper 9](#paper-9)
+10. [Paper 10](#paper-10)
+11. [Paper 11](#paper-11)
 
 ---
 
